@@ -83,3 +83,13 @@ void mergeSort(int low, int high){
     }
 
 }
+void output()
+{
+    cout << "\nData setelah diurutakan (Merge Sort): ";
+    for(int i = 0; i <n; i++)
+    {
+        cout << arr[i]<< " ";
+
+    }
+    cout << endl;
+}
