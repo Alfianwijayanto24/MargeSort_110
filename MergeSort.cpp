@@ -16,11 +16,11 @@ void input(){
         }
         else
         {
-            cout << "\nMaksimal panjang array yg dapat dimasukkan adalah 20 " << endl;
+            cout << "\nMaksimal panjang array yg dapat dimasukkan adalah 20 ";
 
         }
     }
-    cout << endl;
+
     cout << "\n======================================"<< endl;
     cout << "\n=======================Masukan Array==========="<< endl;
     cout << "\n======================================"<< endl;
